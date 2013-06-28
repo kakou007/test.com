@@ -1,0 +1,12 @@
+# Bootstrop
+app/bootstrop*
+
+#Symfony directories
+vendor/*
+*/logs/*
+*/cache/*
+web/Uploads/*
+web/bundles/*
+
+# configuraion files
+app/config/parameters.yml
